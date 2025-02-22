@@ -1,0 +1,2 @@
+Git is a distributed version control system used to track changes in source code. This practical 
+focuses on setting up Git on your local system for effective version control.
