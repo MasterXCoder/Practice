@@ -19,6 +19,6 @@ Follow these steps to set up Git on your system:
    3. Click on Add people and search for you companion.
 
 3. **Acception of request:**
-   A mail will be send to your companion in which he/she have to accept the invitation.
+   -A mail will be send to your companion in which he/she have to accept the invitation.
 
 Now your companion can acces to repo and you both can work together.
