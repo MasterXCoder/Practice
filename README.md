@@ -6,19 +6,17 @@ How to Use Git for collaborative Work
 
 <---Still left to decide--->
 
-## Installation Steps of Git
+## Steps
 
 Follow these steps to set up Git on your system:
 
-1. **Download and Install Git:**
-    - Visit the [Git website](https://git-scm.com/) and download the latest version for your operating system.
-    - Follow the installation instructions provided for your platform.
+1. **Open and Create Repo:**
+    - Visit the [Git website](https://github.com/) and create repo for the project.
 
-2. **Verify the Installation:**
-    ```bash
-    git --version
-    ```
-    You should see the installed Git version.
+2. **Add Collaborator:**
+   1. Go to repo setting.
+   2. Under Acess section click on collaborators.
+   3. Click on Add people and search for you companion.
 
 3. **Configure Git:**
     ```bash
