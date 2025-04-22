@@ -18,30 +18,7 @@ Follow these steps to set up Git on your system:
    2. Under Acess section click on collaborators.
    3. Click on Add people and search for you companion.
 
-3. **Configure Git:**
-    ```bash
-    git config --global user.name "MasterXCoder"
-    git config --global user.email "vansh261105@gmail.com"
-    ```
-    This sets your username and email for Git commits.
+3. **Acception of request:**
+   A mail will be send to your companion in which he/she have to accept the invitation.
 
-4. **Initialize a Repository:**
-    ```bash
-    git init
-    ```
-    This will create a new Git repository in your project folder.
-
-5. **Clone an Existing Repository:**
-    ```bash
-    git clone https://github.com/MasterXCoder/Practice.git
-    ```
-    This downloads an existing repository from GitHub.
-
-6. **Make Your First Commit:**
-    ```bash
-    git add .
-    git commit -m "First Commit"
-    ```
-
-You're now ready to explore Git further by creating branches, making commits, and collaborating with others!
-
+Now your companion can acces to repo and you both can work together.
