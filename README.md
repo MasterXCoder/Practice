@@ -4,9 +4,9 @@ How to Use Git for Beginners
 
 ## Description
 
-This project is designed to help beginners understand how to use Git, a distributed version control system. It covers the essential commands and concepts to get started with Git for managing code efficiently. The guide includes practical examples and step-by-step instructions to make learning Git simple and accessible.
+<---Still left to decide--->
 
-## Installation Steps
+## Installation Steps of Git
 
 Follow these steps to set up Git on your system:
 
