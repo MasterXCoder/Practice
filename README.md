@@ -1,6 +1,6 @@
 # To_Do_List
 
-How to Use Git for Beginners
+How to Use Git for collaborative Work
 
 ## Description
 
